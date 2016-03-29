@@ -1,4 +1,4 @@
 ReactDOM.render(
-  <Header />,
-  document.getElementById('navigation')
+  <App />,
+  document.getElementById('app')
 );

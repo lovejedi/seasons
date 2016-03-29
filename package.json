@@ -4,7 +4,8 @@
   "description": "Seasons MVP",
   "main": "index.js",
   "scripts": {
-    "build": "babel source -d target --presets react"
+    "build": "babel source -d target --presets react",
+    "debug": "babel source -d target --presets react --watch"
   },
   "repository": {
     "type": "git",
