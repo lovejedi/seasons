@@ -1,0 +1,27 @@
+{
+  "name": "Seasons",
+  "version": "0.0.1",
+  "description": "Seasons MVP",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel source -d target --presets react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovejedi/seasons.git"
+  },
+  "author": "love jedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovejedi/seasons/issues"
+  },
+  "homepage": "https://github.com/lovejedi/seasons#readme",
+  "devDependencies": {
+    "babel-cli": "6.6.5",
+    "babel-preset-react": "6.5.0"
+  },
+  "dependencies": {
+    "react": "0.14.7",
+    "react-dom": "0.14.7"
+  }
+}
