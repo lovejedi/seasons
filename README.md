@@ -5,3 +5,4 @@
 - > git clone https://github.com/lovejedi/seasons.git
 - > cd seasons
 - > npm install
+- > npm run build
